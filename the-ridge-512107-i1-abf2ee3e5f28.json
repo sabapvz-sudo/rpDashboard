@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "the-ridge-512107-i1",
+  "private_key_id": "abf2ee3e5f282209776623a5d037e9b181ae73c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmLGzqyc7jGQhk\nqGIBOSfgnmti5hJ+9KcOTnkhjRAeTS6QFm41rV2SqMaoI7XRf17yXNR9jTMIu2yv\nWyAxjtkbMVYya8ZCOHEolgWbknJTAWe0aWh11tSL3YTY9FqemQV/EoScrjZvSE7V\ns3F+/hwq6v7RMDpe6LiwQUWQPL3MA5UbO5VdowO2BPe/rC6PXfP53Xj6GEVTvKsj\nEDRaR4CY0zuug/4ZJIRMBt+bI8ukXkW5eBSx8UKH/+bjzRKvmYgSbXk2232J4E+4\nRrRhSk4iwpJu09yqFEGnk334Qrqa7e0y/i/w50VF05i0vHTaZmNm9AHE6DxNVe0F\nLkmBDwDzAgMBAAECggEAGraK48uBWKc43trlYQZLz3i9ZplPC92keqZJeV1F5A51\nl8V4qLmv5dhVPHOmfNZu8E3VUuw/R1Np4LP+HuQJ1AHrC2ahPm/4W5U9CDSomt4K\nSnRPeJy1GlmH9kssbiZx6GrqVThO7otp25dh0rpi03tnb0AY12et7kJFPoSlNjBy\n4EbH6my3ttLu9cS1fr8JN8lmAcfRkUQMS3HWsS6Sdilz3c8fIZETTTy/qwjvxJHo\n65KZS37V7xMt7SJWj9lmnVf/+3g7PqVmA+TN6ZpsO+m2C8QjyBvQIKYX2aA++PMc\nShtrVauxO67M+rDk5JOARn0ef6rofz23SdepB3HXkQKBgQDWnHK/HrhUtPPhnJKg\nc4pH5vQN1df9vLlf1ERpEhzicgdCzukf9U6ry6zlDGiFWk+mbgvskdEFUncxwoJs\nlytR9YPpJhk0cD3YDNFdARIlgd2Iy7IBx/Iyyu9XFkEsAYijcb1jJG/CDvs8ohjj\nLrvGL5NlJMr3k2Xqd8cbC18gHQKBgQDGOJF2ZY2hbIjOQl9w9oGwBdLoAsE+P7UH\nccR39aHGACWeh+SumBPeV37HMb+IHqJbgzFU5gPrjMHZ4QWdNq0BYb6/beqzuEbH\nVvVSXD4LBiBcbd0qAvqr41/0zQqpq/2ZAWTTL+w5T7G9gjlPioNHAMijDcAeGmqU\nEQyW0nj4TwKBgAPZBDmm/FkQcXrvCrXzvFvzqRaCaf/znUM5lAxqNbhdoQGyof1f\nsYxk93GX2lvhtaHfQTl5l8zHoLl0qk/2GeG7TCUm+La2+HTiLfLD7SZdALLOLB/a\nDN6aQtZF4N9AG8oKZQHdCl/pUtnQci/Ii7dO7Q6YLUdpDh+5DAnRF2CFAoGARZbW\neppsfp975+2lVCM2pHVm9c0ByrjS9Sobr4GsqbajfmR3BFSfpQ9SktwEQeV/WmFU\nkFmwRqHD7JnzPp5TXojSTqJoI3AuaQ0+UwvPPE+KTOjFHFqvZmkM5wSVGbwn6+9x\nVjMc24H/BGkTdblLHUJJLfVF3Uuo3xKdONXrYkECgYEAkc+JvwOqFbZ0urY9uy40\nrECkUFTzZmWerDykW2BGynFpq2CcbE0/WTjY1rBqVZtP5TXCpGB7jH2R0ae2UlSy\nKf+lWOKNkpDoG+uVH2hm2qWG+/mzgIVV3uUmLft7hLdgE+cdzZIUbQ7L/j043IWw\n2RoMTC1NmKrGwPH5Cowyhno=\n-----END PRIVATE KEY-----\n",
+  "client_email": "robdashboard@the-ridge-512107-i1.iam.gserviceaccount.com",
+  "client_id": "116211042180189796943",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/robdashboard%40the-ridge-512107-i1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
