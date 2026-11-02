@@ -1,4 +1,4 @@
-# PulseCommerce Analytics & Operations Dashboard
+# Pulse Cycles Analytics & Operations Dashboard
 
 A modern, responsive, high-performance web dashboard engineered to monitor core e-commerce metrics: **Total Revenue**, **Total Orders**, **Average Order Value (AOV)**, and **Pending Orders Alert Count**.
 

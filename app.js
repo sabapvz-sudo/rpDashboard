@@ -1,5 +1,5 @@
 /**
- * PulseCommerce Dashboard Application Logic
+ * Pulse Cycles Dashboard Application Logic
  * Implements real-time KPI computations, dynamic Chart.js visualizations,
  * status change workflows, search/filtering, and responsive theme support.
  */

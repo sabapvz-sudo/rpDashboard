@@ -1,7 +1,7 @@
 @echo off
-title PulseCommerce Dashboard Launcher
+title Pulse Cycles Dashboard Launcher
 echo ========================================================
-echo   Launching PulseCommerce Operations Dashboard...
+echo   Launching Pulse Cycles Operations Dashboard...
 echo ========================================================
 echo.
 

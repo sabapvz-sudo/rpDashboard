@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PulseCommerce Local HTTP Server with Live Google Sheets Integration
+Pulse Cycles Local HTTP Server with Live Google Sheets Integration
 Authenticates with Google Cloud Service Account:
 the-ridge-512107-i1-abf2ee3e5f28.json
 Fetches real-time data from:
@@ -211,7 +211,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
 def run():
     os.chdir(DIRECTORY)
     print("=" * 65)
-    print(f"[*] Initializing PulseCommerce Google Sheets Live Integration...")
+    print(f"[*] Initializing Pulse Cycles Google Sheets Live Integration...")
     print(f"[*] Credentials: {KEY_FILE}")
     print(f"[*] Spreadsheet: {SPREADSHEET_ID}")
     
@@ -225,7 +225,7 @@ def run():
     with socketserver.TCPServer(("", PORT), Handler) as httpd:
         url = f"http://localhost:{PORT}"
         print("=" * 65)
-        print(f"[*] PulseCommerce Dashboard is running at: {url}")
+        print(f"[*] Pulse Cycles Dashboard is running at: {url}")
         print("=" * 65)
         print("- Press Ctrl+C in this terminal to stop the server.")
         print("- Opening dashboard in your default browser...\n")
